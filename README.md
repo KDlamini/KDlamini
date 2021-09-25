@@ -15,7 +15,8 @@
 
 ## <p align="center">My Professional Stats</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats) [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats) &nbsp; &nbsp; &nbsp;
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats)
 
 ## Core technologies
 &nbsp;
