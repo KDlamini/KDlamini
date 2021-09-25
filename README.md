@@ -11,7 +11,6 @@
 :computer: A multi-skilled **Full-Stack Developer** with hands-on experience in developing, and scripting powerful set of web technology tools and design. I have extensive soft skills like time management, handling expectations, direct client based customer service, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
 
 :mortar_board: I am currently enrolled at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online school for **remote software developers**.
-<hr>
 &nbsp;
 
 ## <p align="center">My Professional Stats</p>
