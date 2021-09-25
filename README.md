@@ -7,7 +7,6 @@
 
 &nbsp;
 ## Welcome to my profile
-<hr>
 
 :computer: A multi-skilled **Full-Stack Developer** with hands-on experience in developing, and scripting powerful set of web technology tools and design. I have extensive soft skills like time management, handling expectations, direct client based customer service, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
 
@@ -20,7 +19,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats) [![My Github Stats](https://github-readme-stats.vercel.app/api?username=KDlamini&theme=radical)](https://github.com/KDlamini/github-readme-stats)
 
 ## Core technologies
-<hr>
 &nbsp;
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
@@ -51,7 +49,6 @@
 
 
 ## Find me on:
-<hr>
 
 <a target="_blank"
 href="https://www.linkedin.com/in/simo-nkosi-418523180/"><img
