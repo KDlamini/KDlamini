@@ -1,5 +1,5 @@
 ### <h3 align="center">Hi there 👋, I'm </h3>
-# <h1 align="center">Simo Nkosi</h1>
+# <h1 align="center">Simo Dlamini</h1>
 
 <p align="center">
   <img src="./images/profile-photo.jpg" />
