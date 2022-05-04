@@ -51,7 +51,7 @@
 ## Find me on:
 
 <a target="_blank"
-href="https://www.linkedin.com/in/simo-nkosi-418523180/"><img
+href="https://www.linkedin.com/in/simo-nkosi/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
 href="https://twitter.com/RealSimoNkosi"><img
@@ -60,6 +60,6 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 href="mailto:simosakhenkosi@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> &nbsp;
 <a target="_blank"
-href="https://wa.me/+27670980127"><img
+href="https://wa.me/+26879180714"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
