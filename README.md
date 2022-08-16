@@ -1,16 +1,12 @@
 ### <h3 align="center">Hi there 👋, I'm </h3>
 # <h1 align="center">Simo Dlamini</h1>
 
-<p align="center">
-  <img src="./images/profile-photo.jpg" />
-</p>
-
 &nbsp;
 ## Welcome to my profile
 
 :computer: A multi-skilled **<i>Full-stack developer</i>** with hands-on experience in developing, and scripting powerful set of web technology tools and design. I have extensive soft skills like time management, handling expectations, direct client based customer service, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
 
-:mortar_board: I am currently enrolled at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online school for **remote software developers**.
+:mortar_board: Currently enrolled at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online program for **remote software developers**.
 &nbsp;
 
 ## <p align="center">My Professional Stats</p>
@@ -43,9 +39,9 @@
 <hr>
 &nbsp;
 
-- 🔭 I’m interested in AI, blockchain and contributing to open source. I love innovation an I hope to invent something that will revolutionize the world on the level of Elon Mask's Tesla and SpaceX.
-- 🌱 I love a challenge and growth. I'm an INTJ; which means that i'm very logically minded, intuitive, analytical and with excellent problem solving skills. I am very principled when it comes to morality and ethics.
-- 👯 Through Microverse, I'v learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive and insightful.
+- 🔭 I’m interested in AI, blockchain, innovation, and contributing to open source. I hope to invent something that will revolutionize the world on the level of Elon Mask's Tesla and SpaceX.
+- 🌱 I love a challenge and growth. I'm an INTJ; which means that I'm very logically minded, intuitive, analytical, and with excellent problem-solving skills. I am very principled when it comes to morality and ethics.
+- 👯 Through Microverse, I've learned to love collaboration; which we practiced through remote pair programming. I found working in teams and solving challenges in groups to be very productive and insightful.
 
 ## About myself
 
