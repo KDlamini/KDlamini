@@ -4,9 +4,9 @@
 &nbsp;
 ## Welcome to my profile
 
-:computer: A multi-skilled **<i>Full-stack developer</i>** with hands-on experience in developing, and scripting powerful set of web technology tools and design. I have extensive soft skills like time management, handling expectations, direct client based customer service, working under pressure to meet deadlines, great communication skills with fluency in English, acquiring new technical skills in short period of time, and remote collaboration through pair programming.
+:computer: I started as a self-taught developer about 4 years ago and earned badges in organizations like Hackerrack, Codeacademy, and FreeCodeCamp. A year ago, I joined Microverse, an online training program for **<i>Full-stack developers</i>** where I spend 8 hours a day remotely with other developers working on multiple projects built with HTML/CSS, JS, React and Redux, and Ruby on Rails . This has helped me build my network through active collaboration with other remote developers and taught me proactive communication and how to conduct meetings in a professional environment.
 
-:mortar_board: Currently enrolled at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online program for **remote software developers**.
+:mortar_board: Currently, I'm working part-time as a Code Reviewer at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet), an online program for remote software developers, where I perform code reviews to help students identify and fix bugs to improve app perfomance.
 &nbsp;
 
 ## <p align="center">My Professional Stats</p>
